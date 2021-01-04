@@ -56,3 +56,5 @@ curl \
   -F "resume=@/home/annie/Desktop/resume.pdf" \
   https://api.upstreamapp.com/jobs
 ```
+
+Alternatively, simply send an email to [michael@upstreamapp.com](michael@upstreamapp.com). Attach your resume, links, or recent pictures of your cute fluffy dog (cats are okay, too).
